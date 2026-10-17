@@ -1,0 +1,11 @@
+version: 1
+scenario: xiaocong-project-save
+profile: headless
+composition: xiaocong
+recording: authored
+header:
+  class: xiaocong
+  pin: true
+  toolSchemasSource: text-turn
+workspace:
+  final: true

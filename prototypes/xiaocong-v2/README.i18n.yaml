@@ -1,0 +1,16 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write prototypes/xiaocong-v2/README.md
+/xiaocong-interactive-prototype:
+  en: 08c9ddcfc2bcc381
+  zh: b6eb45d6503af2a4
+/xiaocong-interactive-prototype/summary:
+  en: 5c55c7153cd11963
+  zh: 09d337ffbd50a283
+/xiaocong-interactive-prototype/open-and-explore:
+  en: 6cb436a963b347b1
+  zh: f9244394331caedb
+/xiaocong-interactive-prototype/keyboard-and-windows:
+  en: b87f67c12e7e5009
+  zh: efc8e29eff8fc1cc
